@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="DELETE">
+        <contains display_value="report_publisher" name="report_publisher">9f90e1d60a0a0b54002f7df0085749db</contains>
+        <role display_value="x_58872_needit.admin" name="x_58872_needit.admin">168e57609f213200bde5f79ff57fcfb4</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-13 07:43:31</sys_created_on>
+        <sys_id>e2aa236a2f32601090bbd2172799b650</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>report_publisher.x_58872_needit.admin</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_user_role_contains_e2aa236a2f32601090bbd2172799b650</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-13 07:43:31</sys_updated_on>
+    </sys_user_role_contains>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>9e873727db0a2410f492c5970596190c</instance_id>
+        <instance_name>dev106241</instance_name>
+        <name>sys_user_role_contains_e2aa236a2f32601090bbd2172799b650</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains"><sys_user_role_contains action="INSERT_OR_UPDATE"><contains display_value="report_publisher" name="report_publisher">9f90e1d60a0a0b54002f7df0085749db</contains><role display_value="x_58872_needit.admin" name="x_58872_needit.admin">168e57609f213200bde5f79ff57fcfb4</role><sys_class_name>sys_user_role_contains</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-03-13 07:43:31</sys_created_on><sys_id>e2aa236a2f32601090bbd2172799b650</sys_id><sys_mod_count>0</sys_mod_count><sys_name>report_publisher.x_58872_needit.admin</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_user_role_contains_e2aa236a2f32601090bbd2172799b650</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-03-13 07:43:31</sys_updated_on></sys_user_role_contains></record_update>]]></payload>
+        <payload_hash>1510520679</payload_hash>
+        <record_name>report_publisher.x_58872_needit.admin</record_name>
+        <reverted_from/>
+        <source>c187d4d22f6a601090bbd2172799b6e5</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-13 07:43:31</sys_created_on>
+        <sys_id>3eaa236a2f32601090bbd2172799b654</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1782a8a52650000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-13 07:43:31</sys_updated_on>
+        <type>Contained Role</type>
+        <update_guid>36aa236aaa326010c5af1d0d35675f54</update_guid>
+        <update_guid_history>36aa236aaa326010c5af1d0d35675f54:1510520679</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-13 07:46:18</sys_created_on>
+        <sys_db_object display_value="" name="sys_user_role_contains">sys_user_role_contains</sys_db_object>
+        <sys_id>c57b33833bba47ec946501ec9f943be4</sys_id>
+        <sys_metadata>e2aa236a2f32601090bbd2172799b650</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>report_publisher.x_58872_needit.admin</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_user_role_contains_e2aa236a2f32601090bbd2172799b650</sys_update_name>
+        <sys_update_version display_value="sys_user_role_contains_e2aa236a2f32601090bbd2172799b650">3eaa236a2f32601090bbd2172799b654</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-13 07:46:18</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
